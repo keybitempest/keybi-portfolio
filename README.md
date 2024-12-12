@@ -16,7 +16,7 @@ Sections
 
 - About Me: Introduction, background, and social media links.
 - Skills: Shows the programming language that i have used.
-- Showcase: Overview of my project G11 Thesis Website. /**Click the picture link to see the repositories**/
+- Showcase: Overview of my project G11 Thesis Website. `Click the picture link to see the repositories`
 - SDG: Focuses on Climate Action, and how web development can raise awareness.
 
 SDG Chosen - Climate Action
