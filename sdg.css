@@ -57,7 +57,7 @@
  }
  
 .skills:hover,
-.skills:active {
+.skills.active {
    color: #009688;
 }
 
