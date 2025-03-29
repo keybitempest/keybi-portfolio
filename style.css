@@ -57,12 +57,12 @@
  }
  
  .skills:hover,
- .skills:active {
+ .skills.active {
     color: #009688;
  }
  
  .skills:hover::after,
- .skills:active::after {
+ .skills.active::after {
     width: 100%;
  }
  .content{
