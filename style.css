@@ -62,7 +62,7 @@
 }
 
 .skills:hover::after,
-.skills:active::after {
+.skills::after {
    width: 100%;
 }
 .content{
