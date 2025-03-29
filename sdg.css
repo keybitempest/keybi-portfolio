@@ -56,15 +56,15 @@
     transition: 0.5s;
  }
  
- .skills:hover,
- .skills:active {
-    color: #009688;
- }
- 
- .skills:hover::after,
- .skills.active::after {
-    width: 100%;
- }
+.skills:hover,
+.skills:active {
+   color: #009688;
+}
+
+.skills:hover::after,
+.skills:active::after {
+   width: 100%;
+}
  .content{
     position: absolute;
     display: flex;
